@@ -9,3 +9,5 @@ Migフォント:http://mix-mplus-ipa.osdn.jp/migu/
 font周り:https://www.crz33.com/software/env/lxterminal  
 xfce4 google theme:https://github.com/chriskempson/base16-xfce4-terminal/blob/master/base16-google.dark.terminalrc
 
+tilixがエラーで起動しなかったので参考にしたスレッド:  
+https://github.com/gnunn1/tilix/issues/1756
