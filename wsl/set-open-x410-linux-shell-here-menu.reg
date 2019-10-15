@@ -1,0 +1,21 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Classes\Directory]
+
+[HKEY_CURRENT_USER\Software\Classes\Directory\Background]
+
+[HKEY_CURRENT_USER\Software\Classes\Directory\Background\shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Directory\Background\shell\X410LinuxShell]
+@="Open X410 Linux shell here"
+
+[HKEY_CURRENT_USER\Software\Classes\Directory\Background\shell\X410LinuxShell\command]
+@="wscript.exe \"E:\\wsl\\bat-launcher.vbs\" \"open-x410-linux-shell-here\" \"%V\""
+
+[HKEY_CURRENT_USER\Software\Classes\Directory\shell]
+
+[HKEY_CURRENT_USER\Software\Classes\Directory\shell\X410LinuxShell]
+@="Open X410 Linux shell here"
+
+[HKEY_CURRENT_USER\Software\Classes\Directory\shell\X410LinuxShell\command]
+@="wscript.exe \"E:\\wsl\\bat-launcher.vbs\" \"open-x410-linux-shell-here\" \"%V\""
